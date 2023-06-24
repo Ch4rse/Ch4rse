@@ -1,27 +1,36 @@
-<p align="left"><img src="https://komarev.com/ghpvc/?username=Ch4rse" alt="Ch4rse" /></p>
-[![Instagram Badge](https://img.shields.io/badge/-ch4rse-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ch4rseofc/?hl=pt-br)](https://instagram.com/ch4rseofc)
-[![Gmail](https://img.shields.io/badge/-ch4rseofcpy@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ch4rseofcpy@gmail.com)](mailto:ch4rseofcpy@gmail.com)
-<em><h5 align="center">(programador - Python 3)</h5></em>
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td style="border: 0";>
+      <img width="400" src="https://i.imgur.com/bXxIgrd.png" />
+    </td>
+    <td style="border: 0";>
+      <p>
+        💻 Project focused on quality content on programming and technology in general <a href="https://www.instagram.com/guiadevbrasil/">Guia Dev Brasil<a/>.
+      </p>
+      <p>
+        🌙 Making daily content in <a href="https://www.instagram.com/guiadevbrasil/">@guiadevbrasil</a>, I supplement that writing with <a href="https://www.youtube.com/channel/UCzmXzz_VR0Li8-YOvWN_t3g">videos on Youtube</a>.
+      </p>
+      <h3>Other places you can find me</h3>
+      <ul>
+        <li>
+          🐦 <a href="https://twitter.com/manotoquinho">Follow me on Twitter</a>
+        </li>
+        <li>
+          📺 <a href="https://www.youtube.com/channel/UCzmXzz_VR0Li8-YOvWN_t3g">Subscribe on Youtube</a>
+        </li>
+        <li>
+          📷 <a href="https://www.instagram.com/guiadevbrasil/">Follow me on instagram</a>
+        </li>
+        <li>
+          📬 <a href=mailto:arthurguiadev@gmail.com>Contact-me on email</a>
+        </li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ch4rse&layout=compact&langs_count=7&theme=dracula"
-    />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=Ch4rse&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
-    />
-  </a>
-</p>
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=arthurspk&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arthurspk&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arthurspk&theme=nord_dark) |
+| :-: | :-: | :-: |
 
-
-
-<!---
-Ch4rse/Ch4rse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arthurspk&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=arthurspk&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| :-: | :-: |
