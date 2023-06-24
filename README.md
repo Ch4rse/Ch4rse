@@ -5,24 +5,24 @@
     </td>
     <td style="border: 0";>
       <p>
-        💻 Project focused on quality content on programming and technology in general <a href="https://www.instagram.com/guiadevbrasil/">Guia Dev Brasil<a/>.
+        💻 programador python, estudante de seguranca da informacao<a/>.
       </p>
       <p>
-        🌙 Making daily content in <a href="https://www.instagram.com/guiadevbrasil/">@guiadevbrasil</a>, I supplement that writing with <a href="https://www.youtube.com/channel/UCzmXzz_VR0Li8-YOvWN_t3g">videos on Youtube</a>.
+        🌙 scripts feitos com base em meus estudos e necessidades</a>.
       </p>
-      <h3>Other places you can find me</h3>
+      <h3>informacoes</h3>
       <ul>
         <li>
-          🐦 <a href="https://twitter.com/manotoquinho">Follow me on Twitter</a>
+          🐦 <a>usuario de blackarch e parrot</a>
         </li>
         <li>
-          📺 <a href="https://www.youtube.com/channel/UCzmXzz_VR0Li8-YOvWN_t3g">Subscribe on Youtube</a>
+          📺 <a>2 anos dedicados a proramacao, 3 dedicados ao hacking</a>
         </li>
         <li>
-          📷 <a href="https://www.instagram.com/guiadevbrasil/">Follow me on instagram</a>
+          📷 <a href="https://www.instagram.com/ch4rseofc/">meu instagram</a>
         </li>
         <li>
-          📬 <a href=mailto:arthurguiadev@gmail.com>Contact-me on email</a>
+          📬 <a href=mailto:ch4rseofc256@gmail.com>Contato email</a>
         </li>
       </ul>
     </td>
