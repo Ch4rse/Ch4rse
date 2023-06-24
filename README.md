@@ -1,3 +1,6 @@
+<p align="left"><img src="https://komarev.com/ghpvc/?username=Ch4rse" alt="Ch4rse" /></p>
+[![Instagram Badge](https://img.shields.io/badge/-ch4rse-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ch4rseofc/?hl=pt-br)](https://instagram.com/ch4rseofc)
+[![Gmail](https://img.shields.io/badge/-ch4rseofcpy@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ch4rseofcpy@gmail.com)](mailto:ch4rseofcpy@gmail.com)
 <em><h5 align="center">(programador - Python 3)</h5></em>
 
 <p align="center">
@@ -16,11 +19,7 @@
   </a>
 </p>
 
-![](https://files.fm/f/nwvefr2gr)
 
-![](https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966)
-
-![](https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png)
 
 <!---
 Ch4rse/Ch4rse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
