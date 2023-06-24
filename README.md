@@ -1,7 +1,7 @@
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td style="border: 0";>
-      <img width="400" src="https://i.imgur.com/bXxIgrd.png" />
+      <img width="400" src="https://fv9-5.failiem.lv/thumb_show.php?i=pjcdzdjqp&view&v=1" />
     </td>
     <td style="border: 0";>
       <p>
