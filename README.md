@@ -24,6 +24,9 @@
         <li>
           📬 <a href=mailto:ch4rseofc256@gmail.com>Contato email</a>
         </li>
+        <li>
+             <a>seja bem vindo ao meu perfil do github, desfrute dos meus estudos</a>
+        </li>
       </ul>
     </td>
   </tr>
